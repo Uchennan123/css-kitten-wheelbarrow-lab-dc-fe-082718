@@ -21,7 +21,7 @@
 /*__write_selector_here__*/  #basket img {
   position: absolute;
   z-index: 5;
-  top: 121px;
+  top: 221px;
   left: 419px;
 }
 
@@ -31,7 +31,7 @@
   position: absolute;
   z-index: 4;
   top: 225px;
-  left: 25px;
+  left: 125px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
